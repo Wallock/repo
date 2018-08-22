@@ -2,8 +2,7 @@ Package: Fix Anemone
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Wallock32 <wallock32@gamil.com>
-Depends: anemone
-Filename: /fixfontanemone2.deb
+Filename: fixfontanemone2.deb
 Size: 6864
 MD5sum: DF06B955297870B39BF3BC8EE7752887
 SHA1: 3FC96F1C12DBDA962EB3F3763320EB8F1BECD526
