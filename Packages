@@ -1,0 +1,14 @@
+Package: Fix Anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Wallock32 <wallock32@gamil.com>
+Depends: anemone
+Filename: /fixfontanemone2.deb
+Size: 6864
+MD5sum: DF06B955297870B39BF3BC8EE7752887
+SHA1: 3FC96F1C12DBDA962EB3F3763320EB8F1BECD526
+SHA256: 9E82506DCB5FD985D368BF052676A3BE0899852F16F2A1E97356C41CC5E450DE
+Section: Fix Anemone
+Description: Fix Font not Enable By Anemone
+Author: Wallock32 <wallock32@gamil>
+Name: Fix Anemone
