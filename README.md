@@ -1,7 +1,9 @@
 
-# REPO Jailbreak IOS With Cydia Repo
-Create By Wallock.
-My old project.
-Don't work for all version.
+# สวัสดีครับ
 
-# repo
+รบกวนลูกค้า แอดไลน์ id : jamejak55
+เพื่อสอบถามข้อมูลและส่งไฟล์งานครับ
+
+# เนื่องจากทาง fastwork กดราคาหนักมาก ทำให้ผมต้องรับงานโดยตรงกับลูกค้า
+รับประกันงานแน่นอนครับ
+website : www.wb.in.th
